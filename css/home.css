@@ -1,0 +1,17 @@
+.front-page {
+}
+
+.front-page h1 {
+    text-align: center;
+}
+
+.front-page p {
+    text-align: center;
+}
+
+.front-page-img {
+    height: 550px;
+    width: 100%;
+    margin-bottom: 40px;
+    filter: grayscale(100%);
+}

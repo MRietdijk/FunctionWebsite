@@ -1,0 +1,42 @@
+fieldset {
+    border: 1px solid black!important;
+    border-radius: 15px;
+    padding: 20px!important;
+    width: 400px;
+}
+
+legend {
+    width: fit-content!important;
+    text-align: center;
+    padding: 10px!important;
+}
+
+fieldset input {
+    border: none;
+    border-bottom: 1px solid grey;
+    text-align: center;
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+fieldset button {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: center;
+}
+
+.error-message {
+    margin-top: 15px;
+}
+
+.mark {
+    color: red;
+    background-color: transparent;
+    margin: 3px;
+}
